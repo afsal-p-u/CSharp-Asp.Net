@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/bin/Debug/net8.0/Abstraction-Interface
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/bin/Debug/net8.0/Abstraction-Interface.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/bin/Debug/net8.0/Abstraction-Interface.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/bin/Debug/net8.0/Abstraction-Interface.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/bin/Debug/net8.0/Abstraction-Interface.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/refint/Abstraction-Interface.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/Abstraction-Interface.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction-Interface/obj/Debug/net8.0/ref/Abstraction-Interface.dll

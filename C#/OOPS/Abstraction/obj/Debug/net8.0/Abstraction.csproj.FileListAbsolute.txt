@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/bin/Debug/net8.0/Abstraction
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/bin/Debug/net8.0/Abstraction.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/bin/Debug/net8.0/Abstraction.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/bin/Debug/net8.0/Abstraction.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/bin/Debug/net8.0/Abstraction.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/refint/Abstraction.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/Abstraction.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Abstraction/obj/Debug/net8.0/ref/Abstraction.dll

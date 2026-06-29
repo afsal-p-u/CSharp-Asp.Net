@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/bin/Debug/net8.0/ClassAndObjects
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/bin/Debug/net8.0/ClassAndObjects.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/bin/Debug/net8.0/ClassAndObjects.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/bin/Debug/net8.0/ClassAndObjects.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/bin/Debug/net8.0/ClassAndObjects.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/refint/ClassAndObjects.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ClassAndObjects.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/ClassAndObjects/obj/Debug/net8.0/ref/ClassAndObjects.dll
