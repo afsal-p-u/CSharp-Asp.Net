@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/bin/Debug/net8.0/Interface
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/bin/Debug/net8.0/Interface.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/bin/Debug/net8.0/Interface.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/bin/Debug/net8.0/Interface.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/refint/Interface.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Interface/obj/Debug/net8.0/ref/Interface.dll

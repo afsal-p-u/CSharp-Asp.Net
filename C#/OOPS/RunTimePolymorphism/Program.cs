@@ -1,4 +1,6 @@
-﻿using System;
+﻿// method overriding
+
+using System;
 
 class Dog
 {

@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/bin/Debug/net8.0/StaticClass
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/bin/Debug/net8.0/StaticClass.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/bin/Debug/net8.0/StaticClass.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/bin/Debug/net8.0/StaticClass.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/bin/Debug/net8.0/StaticClass.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/refint/StaticClass.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/StaticClass.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/StaticClass/obj/Debug/net8.0/ref/StaticClass.dll
