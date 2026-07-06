@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+    Interface have constracts (defention not implementation), multiple inhertance acheived by 
+    using interfaces. 
+*/
+
+using System;
 
 interface IMethod1
 {

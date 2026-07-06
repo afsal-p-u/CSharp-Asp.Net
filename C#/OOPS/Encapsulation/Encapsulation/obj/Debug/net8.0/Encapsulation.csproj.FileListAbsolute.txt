@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/bin/Debug/net8.0/Encapsulation
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/bin/Debug/net8.0/Encapsulation.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/bin/Debug/net8.0/Encapsulation.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/bin/Debug/net8.0/Encapsulation.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/bin/Debug/net8.0/Encapsulation.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/refint/Encapsulation.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/Encapsulation.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Encapsulation/Encapsulation/obj/Debug/net8.0/ref/Encapsulation.dll

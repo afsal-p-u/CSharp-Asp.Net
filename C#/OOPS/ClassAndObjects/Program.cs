@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+    A class is a blueprint or template for creating objects, while an object is an instance of a class. 
+    A class defines the properties (data) and methods (behavior) that objects will have. 
+    An object is created from a class using the new keyword.
+*/
+
+using System;
 
 class Car {
     public string name = "Beta";

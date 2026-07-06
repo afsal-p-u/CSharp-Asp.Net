@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+    Stores a method.
+    A delegate is a type-safe function pointer. 
+    It stores the reference (address) of one or more methods that have the same signature 
+    (same return type and parameters).
+    Pass method as a parameter.
+    Call methods dynamically
+*/
+
+using System;
 
 public delegate int Oper(int a, int b);
 public delegate void MyMethod(string s);
@@ -30,6 +39,12 @@ class Calculation
     {
         Console.WriteLine("Facebook");
     }
+
+    // delegates in parameter
+    public void Calculation1(Oper op)
+    {
+        Console.WriteLine(op(40,50));
+    }
 }
 
 class Progarm
@@ -38,9 +53,7 @@ class Progarm
     {
         Calculation c = new Calculation();
         Oper d = c.add;
-
         Console.WriteLine(d(10,30));
-
         d = c.mul;
         Console.WriteLine(d(30, 40));
 
@@ -51,6 +64,10 @@ class Progarm
         n();
         n += c.Facebook;
         n();
+
+        // delegates in parameter
+        c.Calculation1(c.add);
+        c.Calculation1(c.mul);
 
         //Built in delegates
         // return void

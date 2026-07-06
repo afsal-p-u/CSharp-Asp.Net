@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+    A static class is a class that cannot be instantiated (you cannot create objects from it). 
+    It contains only static members (fields, methods, properties, events).
+    It cannot inherit, can have static contructor
+*/
+
+using System;
 
 static class Dog {
 
