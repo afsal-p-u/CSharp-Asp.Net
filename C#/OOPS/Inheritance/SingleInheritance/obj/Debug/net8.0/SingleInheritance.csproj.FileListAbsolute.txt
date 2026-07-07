@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/bin/Debug/net8.0/SingleInheritance
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/bin/Debug/net8.0/SingleInheritance.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/bin/Debug/net8.0/SingleInheritance.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/bin/Debug/net8.0/SingleInheritance.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/bin/Debug/net8.0/SingleInheritance.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/refint/SingleInheritance.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/SingleInheritance.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/SingleInheritance/obj/Debug/net8.0/ref/SingleInheritance.dll

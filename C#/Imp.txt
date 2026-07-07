@@ -1,0 +1,6 @@
+- partial class
+- garbage collection
+- out, reference
+- destructor
+- exception handling
+- constructor

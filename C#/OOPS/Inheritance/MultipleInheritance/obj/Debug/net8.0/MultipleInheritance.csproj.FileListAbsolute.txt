@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/bin/Debug/net8.0/MultipleInheritance
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/bin/Debug/net8.0/MultipleInheritance.deps.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/bin/Debug/net8.0/MultipleInheritance.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/bin/Debug/net8.0/MultipleInheritance.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/bin/Debug/net8.0/MultipleInheritance.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/refint/MultipleInheritance.dll
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.pdb
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/MultipleInheritance.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/OOPS/Inheritance/MultipleInheritance/obj/Debug/net8.0/ref/MultipleInheritance.dll
