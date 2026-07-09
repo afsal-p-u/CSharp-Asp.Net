@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/bin/Debug/net8.0/DefaultConstructor
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/bin/Debug/net8.0/DefaultConstructor.deps.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/bin/Debug/net8.0/DefaultConstructor.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/bin/Debug/net8.0/DefaultConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/bin/Debug/net8.0/DefaultConstructor.pdb
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/refint/DefaultConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.pdb
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/DefaultConstructor.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/DefaultConstructor/obj/Debug/net8.0/ref/DefaultConstructor.dll

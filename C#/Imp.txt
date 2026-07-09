@@ -1,6 +1,10 @@
-- partial class
 - garbage collection
 - out, reference
 - destructor
 - exception handling
 - constructor
+- recurssion
+- string and string builder
+- boxing and unboxing 
+- managed or unmanged code
+- call back functions

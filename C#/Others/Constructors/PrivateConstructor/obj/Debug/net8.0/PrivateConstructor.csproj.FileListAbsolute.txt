@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.deps.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.pdb
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/refint/PrivateConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.pdb
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/PrivateConstructor/obj/Debug/net8.0/ref/PrivateConstructor.dll

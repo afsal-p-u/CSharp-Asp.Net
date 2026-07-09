@@ -1,0 +1,15 @@
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/bin/Debug/net8.0/ParameterizedConstructor
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/bin/Debug/net8.0/ParameterizedConstructor.deps.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/bin/Debug/net8.0/ParameterizedConstructor.runtimeconfig.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/bin/Debug/net8.0/ParameterizedConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/bin/Debug/net8.0/ParameterizedConstructor.pdb
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.AssemblyInfoInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.AssemblyInfo.cs
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.csproj.CoreCompileInputs.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.sourcelink.json
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/refint/ParameterizedConstructor.dll
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.pdb
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ParameterizedConstructor.genruntimeconfig.cache
+/home/afsal-p-u/Desktop/C#/C#/Others/Constructors/ParameterizedConstructor/obj/Debug/net8.0/ref/ParameterizedConstructor.dll
